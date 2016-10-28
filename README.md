@@ -1,3 +1,5 @@
+All the code taken from article https://blog.bam.tech/developper-news/react-jest-snapshots
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
